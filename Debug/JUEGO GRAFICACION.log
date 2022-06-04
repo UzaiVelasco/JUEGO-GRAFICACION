@@ -1,0 +1,18 @@
+﻿Compilación iniciada a las 31/05/2022 11:34:40 a. m..
+     1>Proyecto "C:\Users\uzaiv\OneDrive\Escritorio\JUEGO GRAFICACION\JUEGO GRAFICACION\JUEGO GRAFICACION.vcxproj" en el nodo 2 (Build destinos).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /I"C:\Users\uzaiv\OneDrive\Escritorio\JUEGO GRAFICACION\JUEGO GRAFICACION" /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt Texturas.cpp
+         Texturas.cpp
+     1>c:\users\uzaiv\onedrive\escritorio\juego graficacion\juego graficacion\texturas.cpp(722): warning C4102: 'sa3': etiqueta sin referencia
+     1>c:\users\uzaiv\onedrive\escritorio\juego graficacion\juego graficacion\texturas.cpp(737): warning C4102: 'fuera': etiqueta sin referencia
+     1>c:\users\uzaiv\onedrive\escritorio\juego graficacion\juego graficacion\texturas.cpp(777): warning C4102: 'sig': etiqueta sin referencia
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\uzaiv\OneDrive\Escritorio\JUEGO GRAFICACION\Debug\JUEGO GRAFICACION.exe" /INCREMENTAL /NOLOGO /LIBPATH:"C:\Users\uzaiv\OneDrive\Escritorio\JUEGO GRAFICACION\JUEGO GRAFICACION" glut32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Users\uzaiv\OneDrive\Escritorio\JUEGO GRAFICACION\Debug\JUEGO GRAFICACION.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\uzaiv\OneDrive\Escritorio\JUEGO GRAFICACION\Debug\JUEGO GRAFICACION.lib" /MACHINE:X86 Debug\ImageLoader.obj
+         Debug\stdafx.obj
+         Debug\Texturas.obj
+         JUEGO GRAFICACION.vcxproj -> C:\Users\uzaiv\OneDrive\Escritorio\JUEGO GRAFICACION\Debug\JUEGO GRAFICACION.exe
+     1>Compilación del proyecto terminada "C:\Users\uzaiv\OneDrive\Escritorio\JUEGO GRAFICACION\JUEGO GRAFICACION\JUEGO GRAFICACION.vcxproj" (Build destinos).
+
+Compilación correcta.
+
+Tiempo transcurrido 00:00:04.23
